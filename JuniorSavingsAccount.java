@@ -1,3 +1,5 @@
+//this is jr savings account class and parent is deleted and commited
+
 import com.SavingsAccount;
 
 
