@@ -1,4 +1,5 @@
-import com.SavingsAccount;
+//this is jr savings account class and parent is deleted and commited
+
 
 
 //Child class or sub class or derived class
